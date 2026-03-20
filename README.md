@@ -260,4 +260,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Krishna Sanjay Ambekar**
-🔗 [GitHub](https://github.com/KrishnaSA05) • [LinkedIn](www.linkedin.com/in/krishna-ambekar-b4a2641b2/)
+🔗 [GitHub](https://github.com/KrishnaSA05) 
+[LinkedIn](www.linkedin.com/in/krishna-ambekar-b4a2641b2/)
