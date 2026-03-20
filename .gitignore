@@ -13,9 +13,9 @@ build/
 *.onnx
 
 # Output files
-output/*.jpg
-output/*.avi
-output/*.png
+#output/*.jpg
+#output/*.avi
+#output/*.png
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
