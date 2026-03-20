@@ -11,7 +11,9 @@ for 3D object detection and real-world distance estimation. LiDAR point clouds a
 projected onto the camera image plane using KITTI calibration matrices, and fused with
 YOLOv8 2D bounding box detections to estimate real-world distances of detected objects.
 
-![Fusion Demo](output/test-ezgif.com-video-to-gif-converter.gif)
+![Fusion Demo](<div align="Left">
+    <img src="output/test-ezgif.com-video-to-gif-converter.gif" width="1000" height="400">
+</div>)
 
 ---
 
@@ -117,8 +119,8 @@ Where:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/camera_lidar_fusion.git
-cd camera_lidar_fusion
+git clone https://github.com/KrishnaSA05/Camera-LiDAR-Sensor-Fusion.git
+cd camera_lidar_sensor_fusion
 
 # Create and activate conda environment (Python 3.11 required for open3d)
 conda create -n fusion_env python=3.11 -y
@@ -240,16 +242,6 @@ The notebook `notebooks/Visual_Fusion_Early_Fusion.ipynb` provides a step-by-ste
 
 ---
 
-## 🛣️ Roadmap
-
-- [ ] Quantitative evaluation (mAP, distance MAE on full KITTI val set)
-- [ ] Mid-fusion and late-fusion strategy comparison
-- [ ] ROS2 integration for real-time deployment
-- [ ] nuScenes dataset support
-- [ ] ONNX export for edge deployment
-
----
-
 ## 🙏 Acknowledgements
 
 - [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
@@ -267,4 +259,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Krishna Sanjay Ambekar**
-🔗 [GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+🔗 [GitHub](https://github.com/KrishnaSA05) • [LinkedIn](www.linkedin.com/in/krishna-ambekar-b4a2641b2)
