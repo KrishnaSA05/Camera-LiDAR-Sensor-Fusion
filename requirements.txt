@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+open3d
+numpy
+matplotlib
+Pillow
+pytest
+PyYAML
