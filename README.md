@@ -259,5 +259,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Krishna Sanjay Ambekar**
-📍 Pune, Maharashtra, India
 🔗 [GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
