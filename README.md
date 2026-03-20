@@ -11,7 +11,7 @@ for 3D object detection and real-world distance estimation. LiDAR point clouds a
 projected onto the camera image plane using KITTI calibration matrices, and fused with
 YOLOv8 2D bounding box detections to estimate real-world distances of detected objects.
 
-![Fusion Demo](assets/fusion_demo.jpg)
+![Fusion Demo](output/test-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
@@ -23,6 +23,14 @@ YOLOv8 2D bounding box detections to estimate real-world distances of detected o
 - **YOLOv8 Integration** — Detects cyclists, cars, and trucks using pretrained YOLOv8s (~105–231ms inference per frame)
 - **Batch Video Pipeline** — Process full sequences of KITTI frames into an annotated output video
 - **Modular Codebase** — Clean separation of components, pipeline, and utilities for production readiness
+
+---
+
+## Camera detections & point cloud visualization
+
+<div align="Left">
+    <img src="output/object detection and lidar projection 3D points.png" width="1000">
+</div>
 
 ---
 
