@@ -11,9 +11,10 @@ for 3D object detection and real-world distance estimation. LiDAR point clouds a
 projected onto the camera image plane using KITTI calibration matrices, and fused with
 YOLOv8 2D bounding box detections to estimate real-world distances of detected objects.
 
-![Fusion Demo](<div align="Left">
+[Fusion Demo]
+<div align="Left">
     <img src="output/test-ezgif.com-video-to-gif-converter.gif" width="1000" height="400">
-</div>)
+</div>
 
 ---
 
@@ -259,4 +260,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Krishna Sanjay Ambekar**
-🔗 [GitHub](https://github.com/KrishnaSA05) • [LinkedIn](www.linkedin.com/in/krishna-ambekar-b4a2641b2)
+🔗 [GitHub](https://github.com/KrishnaSA05) • [LinkedIn](www.linkedin.com/in/krishna-ambekar-b4a2641b2/)
