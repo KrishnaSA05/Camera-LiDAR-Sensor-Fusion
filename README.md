@@ -29,7 +29,7 @@ YOLOv8 2D bounding box detections to estimate real-world distances of detected o
 ## 🏗️ Project Structure
 
 ```
-camera_lidar_fusion/
+camera_lidar_sensor_fusion/
 ├── main.py                              # CLI entry point for single-frame inference
 ├── setup.py                             # Package installer
 ├── requirements.txt                     # All dependencies
